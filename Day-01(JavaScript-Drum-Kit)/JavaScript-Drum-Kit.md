@@ -1,6 +1,6 @@
 ## Demo
 
-<a href="https://shigatsuel.github.io/javascript30-challenge/Day-01(JavaScript-Drum-Kit)/index.html" target="_blank">Day 01 - JavaScript Drum Kit
+<a href="https://shigatsuel.github.io/javascript30-challenge/Day-01(JavaScript-Drum-Kit)/index.html" target="_blank">Day 01 - JavaScript Drum Kit</a>
 
 ## HTML 코드
 
