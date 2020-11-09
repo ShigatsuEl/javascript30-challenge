@@ -1,0 +1,136 @@
+html {
+  background: #018ded
+    url(https://videohive.img.customer.envatousercontent.com/files/257066021/Clock%20Background.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=defc6e5bd5caa1ca60fa52e4ae70185f);
+  background-size: 100vw 100vh;
+  font-family: "helvetica neue";
+  text-align: center;
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  font-size: 2rem;
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.clock {
+  width: 30rem;
+  height: 30rem;
+  border: 5px solid white;
+  border-radius: 50%;
+  margin: 50px auto;
+  padding: 2rem;
+  position: relative;
+  box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1), inset 0 0 0 3px #efefef,
+    inset 0 0 10px black, 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.hand {
+  width: 50%;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  background: black;
+  position: absolute;
+  top: 50%;
+  transition: all 1s;
+  transition-timing-function: linear;
+  transform-origin: 100%; /*x-offset | y-offset | z-offset, 여기서는 x축 맨 오른쪽에 중심을 설정함*/
+}
+
+.hour-hand {
+  height: 6px;
+  transform: translateY(-3px) rotate(90deg); /* account for the height of the clock hands */
+}
+.min-hand {
+  height: 4px;
+  transform: translateY(-2px) rotate(90deg); /* account for the height of the clock hands */
+}
+.second-hand {
+  height: 2px;
+  transform: translateY(-1px) rotate(90deg); /* account for the height of the clock hands */
+}
+
+.oclock {
+  font-weight: 600;
+}
+
+.zero-oclock {
+  position: absolute;
+  top: -20%;
+  left: calc(50% - 1rem);
+}
+
+.one-oclock {
+  position: absolute;
+  top: -10%;
+  right: calc(17% - 1rem);
+}
+
+.two-oclock {
+  position: absolute;
+  top: 12%;
+  right: calc(-5% - 1rem);
+}
+
+.three-oclock {
+  position: absolute;
+  top: calc(50% - 1rem);
+  right: -15%;
+}
+
+.four-oclock {
+  position: absolute;
+  bottom: -12%;
+  right: calc(20% - 1rem);
+}
+
+.five-oclock {
+  position: absolute;
+  bottom: 12%;
+  right: calc(-5% - 1rem);
+}
+
+.six-oclock {
+  position: absolute;
+  bottom: -20%;
+  right: calc(50% - 1rem);
+}
+
+.seven-oclock {
+  position: absolute;
+  bottom: -12%;
+  left: calc(20% - 1rem);
+}
+
+.eight-oclock {
+  position: absolute;
+  bottom: 12%;
+  left: calc(-5% - 1rem);
+}
+
+.nine-oclock {
+  position: absolute;
+  top: calc(50% - 1rem);
+  left: -17%;
+}
+
+.ten-oclock {
+  position: absolute;
+  top: 12%;
+  left: calc(-8% - 1rem);
+}
+
+.eleven-oclock {
+  position: absolute;
+  top: -12%;
+  left: calc(16% - 1rem);
+}
