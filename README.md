@@ -31,3 +31,4 @@
 | 01  |             <a href="https://shigatsuel.github.io/javascript30-challenge/Day-01(JavaScript-Drum-Kit)/index.html" target="_blank">Day 01 - JavaScript Drum Kit</a>             | 20.11.08 |
 | 02  |                  <a href="https://shigatsuel.github.io/javascript30-challenge/Day-02(JS+CSS_Clock)/index.html" target="_blank">Day 02 - JS and CSS Clock</a>                  | 20.11.09 |
 | 03  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-03(Playing-with-CSS-variables+JS)/index.html" target="_blank">Day 03 - Playing with CSS variables and JS</a> | 20.11.09 |
+| 04  |              <a href="https://shigatsuel.github.io/javascript30-challenge/Day-04(Array-Cardio-Day-1)/index.html" target="_blank">Day 04 - Array Cardio Day 1</a>              | 20.11.11 |
