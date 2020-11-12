@@ -34,3 +34,4 @@
 | 04  |              <a href="https://shigatsuel.github.io/javascript30-challenge/Day-04(Array-Cardio-Day-1)/index.html" target="_blank">Day 04 - Array Cardio Day 1</a>              | 20.11.11 |
 | 05  |       <a href="https://shigatsuel.github.io/javascript30-challenge/Day-05(Flex-Panels-Image-Gallery)/index.html" target="_blank">Day 05 - Flex Panels Image Gallery</a>       | 20.11.11 |
 | 06  |                 <a href="https://shigatsuel.github.io/javascript30-challenge/Day-06(Ajax-Type-Ahead)/index.html" target="_blank">Day 06 - Ajax Type Ahead</a>                 | 20.11.12 |
+| 07  |              <a href="https://shigatsuel.github.io/javascript30-challenge/Day-07(Array-Cardio-Day-2)/index.html" target="_blank">Day 07 - Array Cardio Day 2</a>              | 20.11.12 |
