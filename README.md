@@ -26,14 +26,15 @@
 이 챌린지의 목표는 30일 안에 끝내는 것이다.<br>
 또한 하루에 한 개 이상은 무조건 하는 것을 전제로 절대 미루는 일이 없도록 한다.<br>
 
-| Day |                                                                                     Title                                                                                     |   Date   |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
-| 01  |             <a href="https://shigatsuel.github.io/javascript30-challenge/Day-01(JavaScript-Drum-Kit)/index.html" target="_blank">Day 01 - JavaScript Drum Kit</a>             | 20.11.08 |
-| 02  |                  <a href="https://shigatsuel.github.io/javascript30-challenge/Day-02(JS+CSS_Clock)/index.html" target="_blank">Day 02 - JS and CSS Clock</a>                  | 20.11.09 |
-| 03  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-03(Playing-with-CSS-variables+JS)/index.html" target="_blank">Day 03 - Playing with CSS variables and JS</a> | 20.11.09 |
-| 04  |              <a href="https://shigatsuel.github.io/javascript30-challenge/Day-04(Array-Cardio-Day-1)/index.html" target="_blank">Day 04 - Array Cardio Day 1</a>              | 20.11.11 |
-| 05  |       <a href="https://shigatsuel.github.io/javascript30-challenge/Day-05(Flex-Panels-Image-Gallery)/index.html" target="_blank">Day 05 - Flex Panels Image Gallery</a>       | 20.11.11 |
-| 06  |                 <a href="https://shigatsuel.github.io/javascript30-challenge/Day-06(Ajax-Type-Ahead)/index.html" target="_blank">Day 06 - Ajax Type Ahead</a>                 | 20.11.12 |
-| 07  |              <a href="https://shigatsuel.github.io/javascript30-challenge/Day-07(Array-Cardio-Day-2)/index.html" target="_blank">Day 07 - Array Cardio Day 2</a>              | 20.11.12 |
-| 08  |           <a href="https://shigatsuel.github.io/javascript30-challenge/Day-08(Fun-with-HTML5-Canvas)/index.html" target="_blank">Day 08 - Fun with HTML5 Canvas</a>           | 20.11.12 |
-| 09  |   <a href="https://shigatsuel.github.io/javascript30-challenge/Day-09(14-Must-Know-Dev-Tools-Tricks)/index.html" target="_blank">Day 09 - 14 Must Know Dev Tools Tricks</a>   | 20.11.12 |
+| Day |                                                                                             Title                                                                                             |   Date   |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
+| 01  |                     <a href="https://shigatsuel.github.io/javascript30-challenge/Day-01(JavaScript-Drum-Kit)/index.html" target="_blank">Day 01 - JavaScript Drum Kit</a>                     | 20.11.08 |
+| 02  |                          <a href="https://shigatsuel.github.io/javascript30-challenge/Day-02(JS+CSS_Clock)/index.html" target="_blank">Day 02 - JS and CSS Clock</a>                          | 20.11.09 |
+| 03  |         <a href="https://shigatsuel.github.io/javascript30-challenge/Day-03(Playing-with-CSS-variables+JS)/index.html" target="_blank">Day 03 - Playing with CSS variables and JS</a>         | 20.11.09 |
+| 04  |                      <a href="https://shigatsuel.github.io/javascript30-challenge/Day-04(Array-Cardio-Day-1)/index.html" target="_blank">Day 04 - Array Cardio Day 1</a>                      | 20.11.11 |
+| 05  |               <a href="https://shigatsuel.github.io/javascript30-challenge/Day-05(Flex-Panels-Image-Gallery)/index.html" target="_blank">Day 05 - Flex Panels Image Gallery</a>               | 20.11.11 |
+| 06  |                         <a href="https://shigatsuel.github.io/javascript30-challenge/Day-06(Ajax-Type-Ahead)/index.html" target="_blank">Day 06 - Ajax Type Ahead</a>                         | 20.11.12 |
+| 07  |                      <a href="https://shigatsuel.github.io/javascript30-challenge/Day-07(Array-Cardio-Day-2)/index.html" target="_blank">Day 07 - Array Cardio Day 2</a>                      | 20.11.12 |
+| 08  |                   <a href="https://shigatsuel.github.io/javascript30-challenge/Day-08(Fun-with-HTML5-Canvas)/index.html" target="_blank">Day 08 - Fun with HTML5 Canvas</a>                   | 20.11.12 |
+| 09  |           <a href="https://shigatsuel.github.io/javascript30-challenge/Day-09(14-Must-Know-Dev-Tools-Tricks)/index.html" target="_blank">Day 09 - 14 Must Know Dev Tools Tricks</a>           | 20.11.12 |
+| 10  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-10(Hold-Shift-to-Check-Multiple-Checkboxes)/index.html" target="_blank">Day 10 - Hold Shift to Check Multiple Checkboxes</a> | 20.11.13 |
