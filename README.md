@@ -41,3 +41,4 @@
 | 11  |               <a href="https://shigatsuel.github.io/javascript30-challenge/Day-11(Custom-HTML5-Video-Player)/index.html" target="_blank">Day 11 - Custom HTML5 Video Player</a>               | 20.11.13 |
 | 12  |                  <a href="https://shigatsuel.github.io/javascript30-challenge/Day-12(Key-Sequence-Detection)/index.html" target="_blank">Day 12 - Key Sequence Detection</a>                  | 20.11.13 |
 | 13  |                      <a href="https://shigatsuel.github.io/javascript30-challenge/Day-13(Slide-In-On-Scroll)/index.html" target="_blank">Day 13 - Slide In On Scroll</a>                      | 20.11.13 |
+| 14  |       <a href="https://shigatsuel.github.io/javascript30-challenge/Day-14(Object+Arrays-Reference-VS-Copy)/index.html" target="_blank">Day 14 - Object and Arrays Reference VS Copy</a>       | 20.11.13 |
