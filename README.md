@@ -38,3 +38,4 @@
 | 08  |                   <a href="https://shigatsuel.github.io/javascript30-challenge/Day-08(Fun-with-HTML5-Canvas)/index.html" target="_blank">Day 08 - Fun with HTML5 Canvas</a>                   | 20.11.12 |
 | 09  |           <a href="https://shigatsuel.github.io/javascript30-challenge/Day-09(14-Must-Know-Dev-Tools-Tricks)/index.html" target="_blank">Day 09 - 14 Must Know Dev Tools Tricks</a>           | 20.11.12 |
 | 10  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-10(Hold-Shift-to-Check-Multiple-Checkboxes)/index.html" target="_blank">Day 10 - Hold Shift to Check Multiple Checkboxes</a> | 20.11.13 |
+| 11  |               <a href="https://shigatsuel.github.io/javascript30-challenge/Day-11(Custom-HTML5-Video-Player)/index.html" target="_blank">Day 11 - Custom HTML5 Video Player</a>               | 20.11.13 |
