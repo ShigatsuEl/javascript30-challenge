@@ -43,3 +43,4 @@
 | 13  |                      <a href="https://shigatsuel.github.io/javascript30-challenge/Day-13(Slide-In-On-Scroll)/index.html" target="_blank">Day 13 - Slide In On Scroll</a>                      | 20.11.13 |
 | 14  |       <a href="https://shigatsuel.github.io/javascript30-challenge/Day-14(Object+Arrays-Reference-VS-Copy)/index.html" target="_blank">Day 14 - Object and Arrays Reference VS Copy</a>       | 20.11.13 |
 | 15  |         <a href="https://shigatsuel.github.io/javascript30-challenge/Day-15(LocalStorage+Event-Delegation)/index.html" target="_blank">Day 15 - LocalStorage and Event Delegation</a>         | 20.11.14 |
+| 16  |       <a href="https://shigatsuel.github.io/javascript30-challenge/Day-16(CSS-Text-Shadow-Mouse-Move-Effect)/index.html" target="_blank">Day 16 - CSS Text Shadow Mouse Move Effect</a>       | 20.11.14 |
