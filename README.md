@@ -47,3 +47,4 @@
 | 17  |     <a href="https://shigatsuel.github.io/javascript30-challenge/Day-17(Sorting-Band-Names-without-Articles)/index.html" target="_blank">Day 17 - Sorting Band Names without Articles</a>     | 20.11.14 |
 | 18  |          <a href="https://shigatsuel.github.io/javascript30-challenge/Day-18(Tally-String-Times-with-Reduce)/index.html" target="_blank">Day 18 - Tally String Times with Reduce</a>          | 20.11.14 |
 | 19  |                       <a href="https://shigatsuel.github.io/javascript30-challenge/Day-19(Unreal-Webcam-Fun)/index.html" target="_blank">Day 19 - Unreal Webcam Fun</a>                       | 20.11.15 |
+| 20  |               <a href="https://shigatsuel.github.io/javascript30-challenge/Day-20(Native-Speech-Recognition)/index.html" target="_blank">Day 20 - Native Speech Recognition</a>               | 20.11.15 |
