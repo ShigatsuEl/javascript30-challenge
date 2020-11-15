@@ -49,3 +49,4 @@
 | 19  |                         <a href="https://shigatsuel.github.io/javascript30-challenge/Day-19(Unreal-Webcam-Fun)/index.html" target="_blank">Day 19 - Unreal Webcam Fun</a>                         | 20.11.15 |
 | 20  |                 <a href="https://shigatsuel.github.io/javascript30-challenge/Day-20(Native-Speech-Recognition)/index.html" target="_blank">Day 20 - Native Speech Recognition</a>                 | 20.11.15 |
 | 21  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-21(Geolocation-based-Speedometer-and-Compass)/index.html" target="_blank">Day 21 - Geolocation based Speedometer and Compass</a> | 20.11.15 |
+| 22  |                        <a href="https://shigatsuel.github.io/javascript30-challenge/Day-22(Follow-Along-Links)/index.html" target="_blank">Day 22 - Follow Along Links</a>                        | 20.11.15 |
