@@ -27,7 +27,6 @@ function handleEnter() {
     top: dropDownCoords.top - navCoords.top,
     left: dropDownCoords.left - navCoords.left,
   };
-  console.log(coords.top);
 
   background.style.cssText = `width: ${coords.width}px; height: ${coords.height}px; transform: translate(${coords.left}px, ${coords.top}px);`;
 }

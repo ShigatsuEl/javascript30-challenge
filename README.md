@@ -53,3 +53,4 @@
 | 23  |                           <a href="https://shigatsuel.github.io/javascript30-challenge/Day-23(Speech-Synthesis)/index.html" target="_blank">Day 23 - Speech Synthesis</a>                           | 20.11.16 |
 | 24  |                                 <a href="https://shigatsuel.github.io/javascript30-challenge/Day-24(Sticky-Nav)/index.html" target="_blank">Day 24 - Sticky Nav</a>                                 | 20.11.16 |
 | 25  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-25(Event-Capture+Propagation+Bubbling+Once)/index.html" target="_blank">Day 25 - Event Capture, Propagation, Bubbling and Once</a> | 20.11.16 |
+| 26  |               <a href="https://shigatsuel.github.io/javascript30-challenge/Day-26(Stripe-Follow-Along-Dropdown)/index.html" target="_blank">Day 26 - Stripe Follow Along Dropdown</a>               | 20.11.16 |
