@@ -51,3 +51,4 @@
 | 21  | <a href="https://shigatsuel.github.io/javascript30-challenge/Day-21(Geolocation-based-Speedometer-and-Compass)/index.html" target="_blank">Day 21 - Geolocation based Speedometer and Compass</a> | 20.11.15 |
 | 22  |                        <a href="https://shigatsuel.github.io/javascript30-challenge/Day-22(Follow-Along-Links)/index.html" target="_blank">Day 22 - Follow Along Links</a>                        | 20.11.15 |
 | 23  |                          <a href="https://shigatsuel.github.io/javascript30-challenge/Day-23(Speech-Synthesis)/index.html" target="_blank">Day 23 - Speech Synthesis</a>                          | 20.11.16 |
+| 24  |                                <a href="https://shigatsuel.github.io/javascript30-challenge/Day-24(Sticky-Nav)/index.html" target="_blank">Day 24 - Sticky Nav</a>                                | 20.11.16 |
