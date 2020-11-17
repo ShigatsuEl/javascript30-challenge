@@ -56,3 +56,4 @@
 | 26  |               <a href="https://shigatsuel.github.io/javascript30-challenge/Day-26(Stripe-Follow-Along-Dropdown)/index.html" target="_blank">Day 26 - Stripe Follow Along Dropdown</a>               | 20.11.16 |
 | 27  |                     <a href="https://shigatsuel.github.io/javascript30-challenge/Day-27(Click+Drag-to-Scroll)/index.html" target="_blank">Day 27 - Click and Drag to Scroll</a>                     | 20.11.17 |
 | 28  |                  <a href="https://shigatsuel.github.io/javascript30-challenge/Day-28(Video-Speed-Controller-UI)/index.html" target="_blank">Day 28 - Video Speed Controller UI</a>                  | 20.11.17 |
+| 29  |                            <a href="https://shigatsuel.github.io/javascript30-challenge/Day-29(Countdown-Clock)/index.html" target="_blank">Day 29 - Countdown Clock</a>                            | 20.11.17 |
