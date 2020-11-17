@@ -57,3 +57,4 @@
 | 27  |                     <a href="https://shigatsuel.github.io/javascript30-challenge/Day-27(Click+Drag-to-Scroll)/index.html" target="_blank">Day 27 - Click and Drag to Scroll</a>                     | 20.11.17 |
 | 28  |                  <a href="https://shigatsuel.github.io/javascript30-challenge/Day-28(Video-Speed-Controller-UI)/index.html" target="_blank">Day 28 - Video Speed Controller UI</a>                  | 20.11.17 |
 | 29  |                            <a href="https://shigatsuel.github.io/javascript30-challenge/Day-29(Countdown-Clock)/index.html" target="_blank">Day 29 - Countdown Clock</a>                            | 20.11.17 |
+| 30  |                          <a href="https://shigatsuel.github.io/javascript30-challenge/Day-30(Whack-A-Mole-Game)/index.html" target="_blank">Day 30 - Whack A Mole Game</a>                          | 20.11.17 |
